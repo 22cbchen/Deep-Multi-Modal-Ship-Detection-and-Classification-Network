@@ -2,7 +2,7 @@
 
 
 [Deep-Multi-Modal-Ship-Detection-and-Classification-Network](https://ieeexplore.ieee.org/abstract/document/10806870).\
-Fan Xu, Chuibin Chen, Zhigao Shang, Kai-Kuang Ma, Life Fellow, IEEE, Qihui Wu, Zebin Lin, Jie Zhan, and Yizhou Shi\
+Fan Xu, Chuibin Chen, Zhigao Shang, Kai-Kuang Ma, Qihui Wu, Zebin Lin, Jie Zhan, and Yizhou Shi\
 
 <details>
   <summary>
